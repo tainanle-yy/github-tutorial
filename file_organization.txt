@@ -1,0 +1,31 @@
+ my-599/
+│
+├── docs/             
+│   ├── index.md     
+│   ├── installation.md  
+│   └── contributing.md  
+│
+├── data/            
+│   ├── gdb 
+│   │   ├── site.shp
+│   │   └── crown_land.shp
+│   ├── lidar 
+│   │   ├── site1.las
+│   │   └── site2.las
+│   ├── model_outputs
+│   │   └── clipped.las
+│   │   └── dem.tiff
+│   │   └── chm.tiff
+│
+├── scripts/         
+│   ├── clean_input_data_01.R
+│   ├── Q1_ownership.R
+│   ├── Q2_cattle_access.R
+│   └── Q3_cutblock.R  
+│
+├── figs/             
+│   └── boxplot.png.md  
+│   └── suitibility.png.md
+├── .gitignore       
+├── README.md        
+├── LICENSE          
