@@ -1,4 +1,4 @@
-## github-tutorial
+## FCOR 599
 Cumulative Effects Assessment of Watershed Conditions in the Cariboo Region
 This project evaluates the cumulative effects on riparian function and vegetation intactness in the Cariboo Region, using a combination of LiDAR data, satellite imagery, and GIS-based spatial analysis. The study focuses on:
 
